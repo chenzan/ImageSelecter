@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ImageSelecter</string>
+    <string name="image_preview">预览</string>
+    <string name="image_complete">完成</string>
+    <string name="image_zhang">张</string>
+    <string name="image_all_image">所有图片</string>
+    <string name="image_all_image_path">/sdcard</string>
+    <string name="image_select_limit">select image is limit</string>
+    <string name="image_sys_camera_use">system image_camera can not used!</string>
+    <string name="image_error">image error!</string>
+</resources>
